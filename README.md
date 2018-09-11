@@ -17,4 +17,4 @@ Visit Us - https://bootstrapPlusPlus.com
 
 ## Copyright and License
 
-Copyright 2018 Bootstrap Plus Plus. Code released under the [MIT](https://github.com/arafkarim/Simple-BootstrapPlusPlus/blob/master/LICENSE) license.
+Copyright 2018 Bootstrap Plus Plus. Code released under the [MIT license](https://github.com/arafkarim/Simple-BootstrapPlusPlus/blob/master/LICENSE).
