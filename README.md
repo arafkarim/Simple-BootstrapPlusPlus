@@ -11,8 +11,8 @@ It's a multi page portfolio template based on Dark Bootstrap Theme from Bootstra
 
 ## Get in Touch
 
-Newsletter - https://bootstrapplusplus.com/index.html#features 
-Contact Us - https://bootstrapPlusPlus.com/contact.html 
+Newsletter - https://bootstrapplusplus.com/index.html#features <br/> 
+Contact Us - https://bootstrapPlusPlus.com/contact.html <br/>
 Visit Us - https://bootstrapPlusPlus.com  
 
 ## Copyright and License
